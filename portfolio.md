@@ -12,7 +12,7 @@ permalink: /portfolio/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sk5HrrXeQGc" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zbIkwylBgvk" frameborder="0" allowfullscreen></iframe>
 
-the sacred & the profane | precision & chaos | endless love & infinite wrath
+the sacred & the profane &#124; precision & chaos &#124; endless love & infinite wrath
 
 A synthesthetic exploration of modernity, MIDNIGHT is a journey through abstract landscapes in search of reality. Along the way, it traces patterns of human belief and the imminent threat of humanity against itself.
 
