@@ -31,10 +31,9 @@ Eleven minute drum and bass mix used as a technical demo for max4live lighting a
 ####Sakwala Chakraya Visuals
 
 **As Pulse Voyager, 2016**
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLNuKKqMcXWdlgG-YNzZDZTacvSpKwJmf9" frameborder="0" allowfullscreen></iframe>
 
-Real time generative visuals created in TouchDesigner for Sakwala Chakraya, an Sri Lankan punk band that translates roughly as 'Universe Portal'.
+Real time generative visuals created in TouchDesigner for Sakwala Chakraya, an Sri Lankan punk band that translates roughly as "Universe Portal".
 
 ####Morals
 
