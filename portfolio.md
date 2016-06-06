@@ -26,6 +26,16 @@ MIDNIGHT is an intricately crafted audiovisual work powered by a multinode perfo
 
 Eleven minute drum and bass mix used as a technical demo for max4live lighting and visual patches developed as a recipient of the University of Virginia Arts Award. Features a custom built LED helmet, LED wall, and other LED lighting fixtures. Featured on www.createdigitalmotion.com.
 
+## Animated Shorts
+
+#### DREAMWALKER
+
+**As Pulse Voyager, 2016**
+<iframe src="https://player.vimeo.com/video/169613766" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<!--iframe src="https://player.vimeo.com/video/169613766" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe-->
+
+My first animated short. Created in a 3 week period while learning more advanced functions of Blender. The music is an edited excerpt of my mix, 'Voyagers Have To Say Goodbye Too'.
+
 ## Additional Peformances
 
 #### Sakwala Chakraya Visuals
