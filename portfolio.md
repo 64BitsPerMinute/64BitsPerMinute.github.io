@@ -3,7 +3,7 @@ layout: page
 title: Portfolio 
 permalink: /portfolio/
 ---
-##Selected Performances
+##Featured Works
 
 ####MIDNIGHT
 
@@ -24,6 +24,16 @@ MIDNIGHT is an intricately crafted audiovisual work powered by a multinode perfo
 <iframe src="https://player.vimeo.com/video/63191854" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Eleven minute drum and bass mix used as a technical demo for max4live lighting and visual patches developed as a recipient of the University of Virginia Arts Award. Features a custom built LED helmet, LED wall, and other LED lighting fixtures. Featured on www.createdigitalmotion.com.
+
+##Additional Peformances
+
+####Sakwala Chakraya Visuals
+
+**As Pulse Voyager, 2016**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLNuKKqMcXWdlgG-YNzZDZTacvSpKwJmf9" frameborder="0" allowfullscreen></iframe>
+
+Real time generative visuals created in TouchDesigner for Sakwala Chakraya, an Sri Lankan punk band that translates roughly as 'Universe Portal'.
 
 ####Morals
 
